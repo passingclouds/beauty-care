@@ -1,0 +1,83 @@
+Date: 2020-09-23 05:08:00 UTC
+Reloads: ON
+Restore Method: external
+User mode: Free
+BackupGuard version: 1.4.6
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://localhost/wordpress
+Home URL: http://localhost/wordpress
+Uploads path: /Users/young/php-apache/wordpress/wp-content/uploads
+Site installation: standard
+OS: Darwin
+Server: Apache/2.4.41 (Unix) PHP/7.3.11
+User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+PHP version: 7.3.11
+MySQL version: 8.0.19
+Int size: 8
+Int lib: bcmath
+Memory limit: 128M
+Max execution time: 30
+Disk free space: 238GB
+CURL available: Yes
+Openssl version: LibreSSL 2.8.3
+CURL version: 7.64.1 / SSL: (SecureTransport) LibreSSL/2.8.3 / libz: 1.2.11
+Email notifications: OFF
+FTP passive mode: OFF
+Exclude paths: 
+Tables to exclude: 
+Number of rows to backup: 10000
+AJAX request frequency: 
+Archive Size: 184.9KB (184873 bytes)
+Environment: Wordpress 5.5.1
+
+---
+Archive version: 5
+Archive database prefix: wp_
+Archive site URL: http://localhost/wordpress
+
+2020-09-23 05:08:00: Start restore
+2020-09-23 05:08:00: Start restore files
+2020-09-23 05:08:00: Number of files to restore: 1
+2020-09-23 05:08:00: Start restore file: /Users/young/php-apache/wordpress/wp-content/uploads/backup-guard/sg_backup_opt(db)_20200923045739/sg_backup_opt(db)_20200923045739.sql
+2020-09-23 05:08:00: End restore file: /Users/young/php-apache/wordpress/wp-content/uploads/backup-guard/sg_backup_opt(db)_20200923045739/sg_backup_opt(db)_20200923045739.sql
+2020-09-23 05:08:00: End restore files
+2020-09-23 05:08:00: restore files total duration: 0.00 seconds
+2020-09-23 05:08:00: Start restore database
+2020-09-23 05:08:00: Importing table: `wp_bookly_appointments`
+2020-09-23 05:08:00: Importing table: `wp_bookly_categories`
+2020-09-23 05:08:00: Importing table: `wp_bookly_customer_appointments`
+2020-09-23 05:08:00: Importing table: `wp_bookly_customers`
+2020-09-23 05:08:00: Importing table: `wp_bookly_holidays`
+2020-09-23 05:08:00: Importing table: `wp_bookly_messages`
+2020-09-23 05:08:00: Importing table: `wp_bookly_notifications`
+2020-09-23 05:08:00: Importing table: `wp_bookly_payments`
+2020-09-23 05:08:00: Importing table: `wp_bookly_schedule_item_breaks`
+2020-09-23 05:08:00: Importing table: `wp_bookly_sent_notifications`
+2020-09-23 05:08:00: Importing table: `wp_bookly_series`
+2020-09-23 05:08:00: Importing table: `wp_bookly_services`
+2020-09-23 05:08:00: Importing table: `wp_bookly_shop`
+2020-09-23 05:08:00: Importing table: `wp_bookly_staff`
+2020-09-23 05:08:00: Importing table: `wp_bookly_staff_schedule_items`
+2020-09-23 05:08:00: Importing table: `wp_bookly_staff_services`
+2020-09-23 05:08:00: Importing table: `wp_bookly_stats`
+2020-09-23 05:08:00: Importing table: `wp_bookly_sub_services`
+2020-09-23 05:08:00: Importing table: `wp_commentmeta`
+2020-09-23 05:08:00: Importing table: `wp_comments`
+2020-09-23 05:08:00: Importing table: `wp_links`
+2020-09-23 05:08:00: Importing table: `wp_options`
+2020-09-23 05:08:00: Importing table: `wp_postmeta`
+2020-09-23 05:08:00: Importing table: `wp_posts`
+2020-09-23 05:08:00: Importing table: `wp_term_relationships`
+2020-09-23 05:08:00: Importing table: `wp_term_taxonomy`
+2020-09-23 05:08:00: Importing table: `wp_termmeta`
+2020-09-23 05:08:00: Importing table: `wp_terms`
+2020-09-23 05:08:00: Importing table: `wp_usermeta`
+2020-09-23 05:08:00: Importing table: `wp_users`
+2020-09-23 05:08:00: End restore database
+2020-09-23 05:08:00: restore database total duration: 0.00 seconds
+2020-09-23 05:08:00: User not recreated: 抱歉，用户名已存在！
+2020-09-23 05:08:00: End restore
+2020-09-23 05:08:00: Memory pick usage: 22MB
+2020-09-23 05:08:00: CPU usage: 2.216796875 / 2.69384765625 / 2.88671875
+2020-09-23 05:08:00: Total duration: 5.00 seconds

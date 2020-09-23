@@ -1,0 +1,112 @@
+Date: 2020-09-23 04:57:00 UTC
+Reloads: ON
+User mode: Free
+BackupGuard version: 1.4.6
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://localhost/wordpress
+Home URL: http://localhost/wordpress
+Uploads path: /Users/young/php-apache/wordpress/wp-content/uploads
+Site installation: standard
+OS: Darwin
+Server: Apache/2.4.41 (Unix) PHP/7.3.11
+User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+PHP version: 7.3.11
+MySQL version: 8.0.19
+Int size: 8
+Int lib: bcmath
+Memory limit: 128M
+Max execution time: 30
+Disk free space: 238GB
+CURL available: Yes
+Openssl version: LibreSSL 2.8.3
+CURL version: 7.64.1 / SSL: (SecureTransport) LibreSSL/2.8.3 / libz: 1.2.11
+Email notifications: OFF
+FTP passive mode: OFF
+Exclude paths: 
+Tables to exclude: 
+Number of rows to backup: 10000
+AJAX request frequency: 
+Environment: Wordpress 5.5.1
+Backup mode: Manual
+Backup type: database
+
+2020-09-23 04:57:00: Start backup
+2020-09-23 04:57:00: Reload method set to ajax
+2020-09-23 04:57:00: Start backup database
+2020-09-23 04:57:00: Total tables to backup: 30
+2020-09-23 04:57:00: Total rows to backup: 476
+2020-09-23 04:57:00: Start backup table: wp_bookly_appointments
+2020-09-23 04:57:00: End backup table: wp_bookly_appointments
+2020-09-23 04:57:00: Start backup table: wp_bookly_categories
+2020-09-23 04:57:00: End backup table: wp_bookly_categories
+2020-09-23 04:57:00: Start backup table: wp_bookly_customer_appointments
+2020-09-23 04:57:00: End backup table: wp_bookly_customer_appointments
+2020-09-23 04:57:00: Start backup table: wp_bookly_customers
+2020-09-23 04:57:00: End backup table: wp_bookly_customers
+2020-09-23 04:57:00: Start backup table: wp_bookly_holidays
+2020-09-23 04:57:00: End backup table: wp_bookly_holidays
+2020-09-23 04:57:00: Start backup table: wp_bookly_messages
+2020-09-23 04:57:00: End backup table: wp_bookly_messages
+2020-09-23 04:57:00: Start backup table: wp_bookly_notifications
+2020-09-23 04:57:00: End backup table: wp_bookly_notifications
+2020-09-23 04:57:00: Start backup table: wp_bookly_payments
+2020-09-23 04:57:00: End backup table: wp_bookly_payments
+2020-09-23 04:57:00: Start backup table: wp_bookly_schedule_item_breaks
+2020-09-23 04:57:00: End backup table: wp_bookly_schedule_item_breaks
+2020-09-23 04:57:00: Start backup table: wp_bookly_sent_notifications
+2020-09-23 04:57:00: End backup table: wp_bookly_sent_notifications
+2020-09-23 04:57:00: Start backup table: wp_bookly_series
+2020-09-23 04:57:00: End backup table: wp_bookly_series
+2020-09-23 04:57:00: Start backup table: wp_bookly_services
+2020-09-23 04:57:00: End backup table: wp_bookly_services
+2020-09-23 04:57:00: Start backup table: wp_bookly_shop
+2020-09-23 04:57:00: End backup table: wp_bookly_shop
+2020-09-23 04:57:00: Start backup table: wp_bookly_staff
+2020-09-23 04:57:00: End backup table: wp_bookly_staff
+2020-09-23 04:57:00: Start backup table: wp_bookly_staff_schedule_items
+2020-09-23 04:57:00: End backup table: wp_bookly_staff_schedule_items
+2020-09-23 04:57:00: Start backup table: wp_bookly_staff_services
+2020-09-23 04:57:00: End backup table: wp_bookly_staff_services
+2020-09-23 04:57:00: Start backup table: wp_bookly_stats
+2020-09-23 04:57:00: End backup table: wp_bookly_stats
+2020-09-23 04:57:00: Start backup table: wp_bookly_sub_services
+2020-09-23 04:57:00: End backup table: wp_bookly_sub_services
+2020-09-23 04:57:00: Start backup table: wp_commentmeta
+2020-09-23 04:57:00: End backup table: wp_commentmeta
+2020-09-23 04:57:00: Start backup table: wp_comments
+2020-09-23 04:57:00: End backup table: wp_comments
+2020-09-23 04:57:00: Start backup table: wp_links
+2020-09-23 04:57:00: End backup table: wp_links
+2020-09-23 04:57:00: Start backup table: wp_options
+2020-09-23 04:57:00: End backup table: wp_options
+2020-09-23 04:57:00: Start backup table: wp_postmeta
+2020-09-23 04:57:00: End backup table: wp_postmeta
+2020-09-23 04:57:00: Start backup table: wp_posts
+2020-09-23 04:57:00: End backup table: wp_posts
+2020-09-23 04:57:00: Start backup table: wp_term_relationships
+2020-09-23 04:57:00: End backup table: wp_term_relationships
+2020-09-23 04:57:00: Start backup table: wp_term_taxonomy
+2020-09-23 04:57:00: End backup table: wp_term_taxonomy
+2020-09-23 04:57:00: Start backup table: wp_termmeta
+2020-09-23 04:57:00: End backup table: wp_termmeta
+2020-09-23 04:57:00: Start backup table: wp_terms
+2020-09-23 04:57:00: End backup table: wp_terms
+2020-09-23 04:57:00: Start backup table: wp_usermeta
+2020-09-23 04:57:00: End backup table: wp_usermeta
+2020-09-23 04:57:00: Start backup table: wp_users
+2020-09-23 04:57:00: End backup table: wp_users
+2020-09-23 04:57:00: End backup database
+2020-09-23 04:57:00: backup database total duration: 0.00 seconds
+2020-09-23 04:57:00: Start backup files
+2020-09-23 04:57:00: Number of files to backup: 1
+2020-09-23 04:57:00: Root path: /Users/young/php-apache/wordpress/wp-content/uploads/backup-guard/sg_backup_opt(db)_20200923045739/sg_backup_opt(db)_20200923045739.sgbp/
+2020-09-23 04:57:00: Start backup file: wp-content/uploads/backup-guard/sg_backup_opt(db)_20200923045739/sg_backup_opt(db)_20200923045739.sql
+2020-09-23 04:57:00: End backup file: wp-content/uploads/backup-guard/sg_backup_opt(db)_20200923045739/sg_backup_opt(db)_20200923045739.sql
+2020-09-23 04:57:00: End backup files
+2020-09-23 04:57:00: backup files total duration: 2.00 seconds
+2020-09-23 04:57:00: End backup
+2020-09-23 04:57:00: Total duration: 9.00 seconds
+2020-09-23 04:57:00: Memory pick usage: 8.5MB
+2020-09-23 04:57:00: CPU usage: 2.3115234375 / 2.9404296875 / 2.94482421875
+2020-09-23 04:57:00: Archive size: 184.9KB (184873 bytes)
